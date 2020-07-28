@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b03c43e0-8e93-485f-9847-aa0b066b772f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/My_Website.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ryan/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ryan/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ryan/static/css/color/default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ryan/static/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ryan/static/img/avtar1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ryan/static/img/avtar2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ryan/static/img/avtar3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ryan/static/img/blog-img2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ryan/static/img/blog-img3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ryan/static/img/blog-img4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ryan/static/img/man.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ryan/static/img/overlay-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ryan/static/img/portfolio-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ryan/static/img/portfolio-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ryan/static/img/portfolio-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ryan/static/img/portfolio-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ryan/static/img/portfolio-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ryan/static/img/portfolio-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ryan/static/js/custom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ryan/static/js/jquery-3.2.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ryan/static/js/jquery-migrate-3.0.0.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ryan/static/plugin/bootstrap/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ryan/static/plugin/bootstrap/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ryan/static/plugin/bootstrap/js/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ryan/static/plugin/font-awesome/css/fontawesome-all.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ryan/static/plugin/font-awesome/webfonts/fa-brands-400.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ryan/static/plugin/font-awesome/webfonts/fa-brands-400.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ryan/static/plugin/font-awesome/webfonts/fa-brands-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ryan/static/plugin/font-awesome/webfonts/fa-brands-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ryan/static/plugin/font-awesome/webfonts/fa-brands-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ryan/static/plugin/font-awesome/webfonts/fa-brands-400d41d.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ryan/static/plugin/font-awesome/webfonts/fa-regular-400.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ryan/static/plugin/font-awesome/webfonts/fa-regular-400.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ryan/static/plugin/font-awesome/webfonts/fa-regular-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ryan/static/plugin/font-awesome/webfonts/fa-regular-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ryan/static/plugin/font-awesome/webfonts/fa-regular-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ryan/static/plugin/font-awesome/webfonts/fa-regular-400d41d.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ryan/static/plugin/font-awesome/webfonts/fa-solid-900.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ryan/static/plugin/font-awesome/webfonts/fa-solid-900.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ryan/static/plugin/font-awesome/webfonts/fa-solid-900.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ryan/static/plugin/font-awesome/webfonts/fa-solid-900.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ryan/static/plugin/font-awesome/webfonts/fa-solid-900.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ryan/static/plugin/font-awesome/webfonts/fa-solid-900d41d.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ryan/static/plugin/isotope/isotope.pkgd.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ryan/static/plugin/magnific/jquery.magnific-popup.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ryan/static/plugin/magnific/magnific-popup.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ryan/static/plugin/owl-carousel/css/owl.carousel.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ryan/static/plugin/owl-carousel/css/owl.video.play.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ryan/static/plugin/owl-carousel/js/owl.carousel.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ryan/static/plugin/particles/particles-app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ryan/static/plugin/particles/particles.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ryan/static/plugin/themify-icons/fonts/themify9f24.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ryan/static/plugin/themify-icons/fonts/themify9f24.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ryan/static/plugin/themify-icons/fonts/themify9f24.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ryan/static/plugin/themify-icons/fonts/themify9f24.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ryan/static/plugin/themify-icons/fonts/themifyd41d.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ryan/static/plugin/themify-icons/themify-icons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ryan/style-switcher/style-switcher.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ryan/style-switcher/style-switcher.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fAw6UISUfBbSJquCsAYWVsSrJk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b03c43e0-8e93-485f-9847-aa0b066b772f" name="Default Changelist" comment="" />
+      <created>1595674029989</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595674029989</updated>
+      <workItem from="1595674031354" duration="1653000" />
+      <workItem from="1595676860075" duration="1384000" />
+      <workItem from="1595716525172" duration="5417000" />
+      <workItem from="1595775984986" duration="474000" />
+      <workItem from="1595776489393" duration="4284000" />
+      <workItem from="1595850258657" duration="66000" />
+      <workItem from="1595907968099" duration="3890000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="724" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595675096361">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="724" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1595675096361" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1595850322261">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1595850322261" />
+    <state x="616" y="173" width="670" height="676" key="search.everywhere.popup" timestamp="1595786675169">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="173" width="670" height="676" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1595786675169" />
+  </component>
+</project>
