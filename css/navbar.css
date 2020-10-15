@@ -1,0 +1,20 @@
+.nav-color {
+    background-color: #212529 !important;
+}
+
+.nav-headings {
+    display: block;
+    padding: 0.5rem 1rem;
+    font-size: 0.9rem;
+    font-weight: 700;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.nav-name {
+    display: block;
+    padding: 0.5rem 1rem;
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: #fff;
+}
