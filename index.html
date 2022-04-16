@@ -32,6 +32,7 @@
             win.focus();
         }
     </script>
+    <script src="js/posttoheroku.js"></script>
 </head>
 
 <body>
@@ -120,36 +121,27 @@
                 <div class="col text-center pt-3 pb-3">
                     <p class="h3 text-center ">Skills</p>
                     <div class="row justify-content-center">
-                        <img
-                            src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"
-                            alt="mongo" srcset="">
-                            <img
-                            src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"
-                            alt="SQlite" srcset="">
-                            <img
-                            src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"
-                            alt="C#" srcset="">
-                            <img
-                            src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
-                            alt="CSS3" srcset="">
-                            <img
-                            src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
-                            alt="HTML5" srcset="">
-                            <img
-                            src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"
-                            alt="Js" srcset="">
-                            <img
-                            src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"
-                            alt="Latex" srcset="">
-                            <img
-                            src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"
-                            alt="Python" srcset="">
-                            <img
-                            src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"
-                            alt="Linux" srcset=""></p>
+                        <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"
+                            alt="mongo">
+                        <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"
+                            alt="SQlite">
+                        <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"
+                            alt="C#">
+                        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
+                            alt="CSS3">
+                        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
+                            alt="HTML5">
+                        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"
+                            alt="Js">
+                        <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"
+                            alt="Latex">
+                        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"
+                            alt="Python">
+                        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"
+                            alt="Linux"></p>
+                    </div>
                 </div>
             </div>
-        </div>
     </section>
     <section id="Portfolio">
         <div class="container">
@@ -214,14 +206,8 @@
                         <li class="nav-item">
                             <a class="nav-link" href="tel:+916361409527">Phone: +91 6361409527</a>
                         </li>
-                    </ul>
-                </div>
-                <div class="col-md-4 footer-column">
-                    <ul class="nav flex-column">
                         <li class="nav-item">
-                            <span class="footer-title">Messaging</span>
-                        <li class="nav-item">
-                            <a class="nav-link" href="https://wa.me/+916361409527">WhatsApp</a>
+                            <a class="nav-link" href="https://wa.me/+916361409527">Message On WhatsApp</a>
                         </li>
                     </ul>
                 </div>
@@ -238,8 +224,32 @@
                         </li>
                     </ul>
                 </div>
+                <div class="col-md-4 footer-column">
+                    <form id="contactme" action="contactme.php" method="post">
+                        <ul class="nav flex-column">
+                            <li class="nav-item">
+                                <span class="footer-title">Drop a Message</span>
+                            </li>
+                            <li class="form-group">
+                                <label for="name">Name</label>
+                                <input type="text" class="form-control" id="name" name="name" placeholder="Enter Name"
+                                    required>
+                            </li>
+                            <li class="form-group">
+                                <label for="email">Email</label>
+                                <input type="email" class="form-control" id="email" name="email"
+                                    placeholder="Enter Email" required>
+                            </li>
+                            <li class="form-group">
+                                <label for="message">Message</label>
+                                <textarea class="form-control" id="message" name="message" rows="3"
+                                    placeholder="Enter Message" required></textarea>
+                            </li>
+                            <button type="submit" class="btn btn-primary">Submit</button>
+                    </form>
+                </div>
             </div>
-        </div>
+
     </footer>
 </body>
 
